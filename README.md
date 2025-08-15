@@ -64,11 +64,11 @@
 <!-- Contact -->
 <h2>📫 Let's Connect</h2>
 <p>
-  <a href="https://www.linkedin.com/in/atharva-shinde" target="_blank">
+  <a href="www.linkedin.com/in/atharva-shinde-66a34425a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your.email@example.com">
+  <a href="atharvashinde811.gmail@.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hi!-red" alt="Email">
   </a>
 </p>
