@@ -12,7 +12,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">I'm Atharva from Pune.<br><br>- 🔭 I’ve worked on a Bank Application project in Java.<br>- 📚 I'm currently learning new technologies and improving my skills.<br>- ⚡ In my free time I explore the world of cybersecurity and coding.</p>
+<p align="left">I'm Atharva from Pune.<br><br>- 🔭 I’ve worked on a Bank Application project in Java.<br>- 📚 I'm currently learning SpringBoot.<br>- ⚡ In my free time I explore the world of cybersecurity and coding.</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
