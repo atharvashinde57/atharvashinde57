@@ -1,90 +1,81 @@
 <!-- ====== GitHub Profile: Atharva Shinde ====== -->
-<div align="center" style="padding: 10px 0;">
-  <h1 style="margin: 0;">👋 Hi, I'm <span style="color:#4f46e5;">Atharva Shinde</span></h1>
-  <p style="margin: 8px 0 0 0; font-size: 16px;">
-    🎓 <strong>B.Tech in Computer Engineering</strong> — JSPM College, Pune<br>
-    💻 Passionate Developer • Tech Enthusiast • Problem Solver
+<div align="center">
+  <h1>Atharva Shinde</h1>
+  <p>
+    Computer Engineering Undergraduate | Java & Backend Developer <br>
+    Actively contributing to Open Source and preparing for Google Summer of Code
   </p>
 </div>
 
-<hr style="border:0; height:1px; background:#e5e7eb; margin: 20px 0;">
+<hr>
 
-<!-- About -->
-<h2>🚀 About Me</h2>
+<h2>About Me</h2>
 <p>
-  I'm a dedicated Computer Engineering student with strong skills in
-  <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>Hibernate</strong>,
-  <strong>SQL</strong>, and <strong>Web Development</strong>. I enjoy building full-stack
-  applications, exploring new technologies, and solving real-world problems.
-  Currently, I’m expanding my expertise into <strong>Game Development</strong>,
-  <strong>Blockchain Applications</strong>, and <strong>3D Web Technologies</strong>.
+I am a Computer Engineering student at JSPM, Pune with strong interest in 
+<strong>backend development</strong> and <strong>open-source software</strong>. 
+My primary tech stack includes <strong>Java</strong>, <strong>Spring Boot</strong>, 
+<strong>Hibernate</strong>, and <strong>SQL</strong>. 
+I enjoy understanding large codebases, fixing bugs, and building scalable systems.
 </p>
 
-<!-- Skills -->
-<h2>🛠 Skills &amp; Technologies</h2>
-<div>
-  <p><strong>Languages:</strong></p>
-  <p>
-    <code>Java</code> <code>JavaScript</code> <code>HTML5</code> <code>CSS3</code> <code>SQL</code>
-  </p>
-
-  <p><strong>Frameworks &amp; Libraries:</strong></p>
-  <p>
-    <code>Spring Boot</code> <code>Hibernate</code> <code>Bootstrap</code>
-  </p>
-
-  <p><strong>Databases:</strong></p>
-  <p>
-    <code>MySQL</code> <code>PostgreSQL</code>
-  </p>
-
-  <p><strong>Other:</strong></p>
-  <p>
-    <code>DSA</code> <code>REST APIs</code> <code>Git &amp; GitHub</code>
-  </p>
-</div>
-
-<!-- Projects -->
-<h2>📌 Featured Projects</h2>
+<p>
+Currently, I am focusing on:
 <ul>
-  <li><strong>3D Indian Car Information Website</strong> — An interactive platform integrating 3D car models. <em>(In Progress)</em></li>
-  <li><strong>Photographers’ Client Gallery Website</strong> — Secure photo storage and client access portal.</li>
-  <li><strong>Spring Boot CRUD Applications</strong> — Java web apps with Hibernate + MySQL integration.</li>
+  <li>Contributing to open-source organizations</li>
+  <li>Improving system design and clean code practices</li>
+  <li>Preparing for Google Summer of Code (GSoC)</li>
+</ul>
+</p>
+
+<h2>Technical Skills</h2>
+
+<p><strong>Languages</strong></p>
+<code>Java</code> <code>JavaScript</code> <code>HTML</code> <code>CSS</code> <code>SQL</code>
+
+<p><strong>Frameworks & Tools</strong></p>
+<code>Spring Boot</code> <code>Hibernate</code> <code>Bootstrap</code> <code>Git</code> <code>GitHub</code>
+
+<p><strong>Databases</strong></p>
+<code>MySQL</code> <code>PostgreSQL</code>
+
+<p><strong>Core Concepts</strong></p>
+<code>OOP</code> <code>DSA</code> <code>REST APIs</code> <code>MVC Architecture</code>
+
+<h2>Featured Projects</h2>
+<ul>
+  <li>
+    <strong>3D Indian Car Information Platform</strong><br>
+    Web application providing interactive car information with future 3D integration.
+  </li>
+  <li>
+    <strong>Photographers Client Gallery System</strong><br>
+    Secure web portal for managing and sharing client photos.
+  </li>
+  <li>
+    <strong>Spring Boot CRUD Systems</strong><br>
+    Multiple backend applications using Spring Boot, Hibernate and SQL.
+  </li>
 </ul>
 
-<!-- Stats -->
-<h2>📈 GitHub Stats</h2>
+<h2>Open Source & GSoC</h2>
+<p>
+I am actively exploring open-source organizations and contributing to real-world projects.
+My goal is to participate in <strong>Google Summer of Code</strong> and work on large-scale 
+production systems under experienced mentors.
+</p>
+
+<h2>GitHub Statistics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharvashinde57&show_icons=true&theme=tokyonight"
-       alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvashinde57&layout=compact&theme=tokyonight"
-       alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atharvashinde57&show_icons=true&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvashinde57&layout=compact&theme=default" height="165" />
 </div>
 
-<!-- Contact -->
-<h2>📫 Let's Connect</h2>
+<h2>Contact</h2>
 <p>
-  <a href="www.linkedin.com/in/atharva-shinde-66a34425a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;
-  <a href="atharvashinde811.gmail@.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi!-red" alt="Email">
-  </a>
+<a href="https://www.linkedin.com/in/atharva-shinde-66a34425a">LinkedIn</a><br>
+<a href="mailto:atharvashinde811@gmail.com">atharvashinde811@gmail.com</a>
 </p>
 
-<!-- Quote -->
 <blockquote>
-  <em>"Code is like humor. When you have to explain it, it’s bad."</em> — Cory House
+“First solve the problem, then write the code.” — John Johnson
 </blockquote>
-
-<!-- Optional: Compact badges row -->
-<p>
-  <img src="https://img.shields.io/badge/Java-Expert-orange" alt="Java Badge">
-  <img src="https://img.shields.io/badge/Spring%20Boot-Proficient-brightgreen" alt="Spring Boot Badge">
-  <img src="https://img.shields.io/badge/Hibernate-Proficient-yellow" alt="Hibernate Badge">
-  <img src="https://img.shields.io/badge/SQL-Advanced-blue" alt="SQL Badge">
-  <img src="https://img.shields.io/badge/DSA-Strong-success" alt="DSA Badge">
-</p>
-
-<p><sub>💡 To display this on your profile, make sure this file is <code>README.md</code> in your <code>atharvashinde57</code> repo.</sub></p>
